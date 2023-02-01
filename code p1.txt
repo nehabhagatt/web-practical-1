@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+
+<title>Neha CV</title>
+</head>
+<body bgcolor="#ffffff">
+<table width="500px" height="900px" align="center">
+<tr>
+<td width="300px" bgcolor="#fdfdfe">
+<h1>
+NEHA BHAGAT
+</h1><hr>
+<p>I am a student at Chandigarh College of Engineering and Technology, pursuing BE degree in Computer Science Engineering. Through this practical I will be learning HTML and CSS.</p>
+<h2>
+Career Objective
+</h2><hr>
+<p>Looking forward to work with an organisation where I can grow and make change by my presence.</p>
+<h2>
+Academic Qualification
+</h2><hr>
+<p>
+<b>Chandigarh College of Engineering and Technology</b><br> BE in CSE <br>
+2021-2025<br>
+<b>Indo Swiss Training Centre (CSIR-CSIO)</b><br> 12th in Science<br>
+2020-2021<br>
+Total Aggregate: 98.8%<br>
+<b>Vijay hr. sec. School</b><br> Matriculation<br>
+2018-19<br>
+maintained a 92.8%<br>
+</p>
+<h2>
+Work History
+</h2><hr>
+<p>
+ 
+
+<b>Intern at Medzak Healthcare Pvt Ltd</b><br> Work From Home<br>
+June 21- Aug 21<br>
+<b>Internshala Student Partner ISP</b><br> Online<br>
+Nov 20- Jan 21<br>
+ 
+</p>
+<h2>
+Technical Skills
+</h2><hr>
+<p>
+ 
+
+
+
+
+
+Bradley<br>
+ 
+Programming languages: C, C++ <br>
+Variable Frequency Drive(VFD) Micromaster 440 <br> Pneumatic & Hydraulic kit <br>
+PLC Ladder programming languages: Siemens & Allen
+
+CNC programming <br>
+</p>
+<h2>
+Declaration
+</h2><hr>
+<p>I hereby declare that all the above information is true to
+ 
+the best of my knowledge and belief.</p>
+</td>
+<td width="100px" height="200px" bgcolor="#000080" style="color: white; padding:20px;">
+ 
+
+ 
+<img src="C:\Users\SVC\Pictures\Camera Roll\neha.jpeg" style="border: radius20%;" alt="">
+
+<h1>Personal Details</h1><hr>
+<p>
+ 
+<b>Name:</b><br> Neha Bhagat<br><br>
+<b>Address:</b><br>
+#407 udhampur ,Jammu, 182141<br><br>
+<b>Contact:</b><br> 788991***<br><br>
+<b>Email:</b><br> nehab2814@gmail.com<br><br>
+<b>Softwares:</b><br> VS code <br>
+Dev C++ <br> Autocad 2007 <br>
+Simatic Manager S7<br> OrCAD<br>
+</p>
+</td>
+</tr>
+</table>
+</body>
+</html>
